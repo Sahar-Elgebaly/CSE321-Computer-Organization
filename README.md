@@ -2,7 +2,11 @@
 
 This repository contains lab exercises and assignments for the **CSE321: Computer Organization** course.
 
+---
+
 ## 📂 Structure
+
+```text
 CSE321-Computer-Organization/
  ├── labs/                         # MIPS assembly lab exercises (QtSPIM)
  │   ├── lab1/
@@ -11,7 +15,8 @@ CSE321-Computer-Organization/
  │   │   └── screenshots/          # Screenshots of execution
  │   ├── lab2/
  │   └── ...
- ├── README.md                     # Optional
+ ├── README.md                     # Project description
+
 
 ## 🧠 Tools Used
 - **MIPS Assembly** (for programming)
