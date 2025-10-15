@@ -16,7 +16,7 @@ CSE321-Computer-Organization/
  │   ├── lab2/
  │   └── ...
  ├── README.md                     # Project description
-
+```
 
 ## 🧠 Tools Used
 - **MIPS Assembly** (for programming)
